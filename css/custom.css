@@ -2,3 +2,7 @@
 .icon-box .icon-box-icon {
 	color: #ef4136;
 }
+.list-display-inline-block .list-group-item{
+	display:inline-block;
+	min-width:100%;
+}

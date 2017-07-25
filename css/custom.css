@@ -6,3 +6,7 @@
 	display:inline-block;
 	min-width:100%;
 }
+
+.clients-row .client img {
+	opacity: 0.8;
+}

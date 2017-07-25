@@ -10,3 +10,8 @@
 .clients-row .client img {
 	opacity: 0.8;
 }
+
+.button.button-border {
+	border: 2px solid #ef4136;
+	color: #ef4136;
+}
